@@ -1,4 +1,3 @@
-#Noor Sayed Ahmad 231168
 import os
 import cv2
 import numpy as np
